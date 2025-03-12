@@ -21,7 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-html
+```html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -40,9 +40,9 @@ html
            <th> Dept </th>
        </tr> 
        <tr>
-           <td> Mukesh </td>
-           <td>212224240098</td>
-           <td>AIML</td>
+           <td> harish </td>
+           <td>212224110022</td>
+           <td>IOT</td>
        </tr>
     </table>
        <br>   
@@ -61,8 +61,7 @@ html
 
 </body>
 </html>
-
-
+```
 
 ## OUTPUT:
 ![Output](statics/1.png)
